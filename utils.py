@@ -146,3 +146,4 @@ def movies_by_parameters(movie_type, release_year, genre):
         })
 
     return result_list
+#
